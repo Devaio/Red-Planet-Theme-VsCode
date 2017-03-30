@@ -1,0 +1,15 @@
+{
+	"name": "theme-redplanet",
+	"version": "0.1.0",
+	"publisher": "vscode",
+	"engines": { "vscode": "*" },
+	"contributes": {
+		"themes": [
+			{
+				"label": "RedPlanet",
+				"uiTheme": "vs-dark",
+				"path": "./themes/RedPlanet.tmTheme"
+			}
+		]
+	}
+}
