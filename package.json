@@ -8,7 +8,7 @@
 			{
 				"label": "RedPlanet",
 				"uiTheme": "vs-dark",
-				"path": "./themes/RedPlanet.tmTheme"
+				"path": "./themes/RedPlanet.json"
 			}
 		]
 	}
